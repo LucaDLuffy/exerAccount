@@ -1,0 +1,10 @@
+
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(­ìØıÿÿÿÿ8äüŞí¥1
+L	java:S106"+Replace this use of System.out by a logger.(ó˜½şÿÿÿÿ8ûüŞí¥1
+L	java:S106"+Replace this use of System.out by a logger.(ÎåÌ®ùÿÿÿÿ8üüŞí¥1
+=
+java:S2129	" Remove this "String" constructor(ŸŞ‰8€ıŞí¥1
+L	java:S106"+Replace this use of System.out by a logger.(ŸÖ³úùÿÿÿÿ8€ıŞí¥1
+L	java:S106"+Replace this use of System.out by a logger.(ÍÚÉñøÿÿÿÿ8‚ıŞí¥1
+L	java:S106"+Replace this use of System.out by a logger.(ç¶Êíùÿÿÿÿ8‚ıŞí¥1
